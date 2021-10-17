@@ -38,6 +38,7 @@ nav {
     overflow: auto;
     align-items: center;
     background-color: lightsteelblue;
+    border-bottom: darkslateblue;
 }
 
 nav a {
@@ -118,7 +119,7 @@ footer {
     bottom: 0;
     width: 100%;
     background-color: lightsteelblue;
-    padding: 10px;
+    padding: 5px 10px;
     left: 0;
     border-top: darkslateblue;
 }
