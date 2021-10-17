@@ -93,7 +93,7 @@ section {
 
 .soap-card {
     display: inline-block;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 .soap-card img {
